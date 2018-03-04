@@ -18,5 +18,5 @@ INSERT INTO characters (name, motto, species, series_id, author_id) VALUES ("Val
 INSERT INTO characters (name, motto, species, series_id, author_id) VALUES ("Colonel Graff", "Humanity does not ask us to be happy.", "Human", 2, 2);
 INSERT INTO characters (name, motto, species, series_id, author_id) VALUES ("Bean", "Early to bed and early to rise", "Human", 2, 2);
 
-INSERT INTO subgenres (name) VALUES (epic fantasy);
-INSERT INTO subgenres (name) VALUES (science fiction);
+INSERT INTO subgenres (name) VALUES ("epic fantasy");
+INSERT INTO subgenres (name) VALUES ("science fiction");
