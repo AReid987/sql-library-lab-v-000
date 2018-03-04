@@ -23,3 +23,32 @@ INSERT INTO subgenres (name) VALUES ("science fiction");
 
 INSERT INTO authors (name) VALUES ("George R. R. Martin");
 INSERT INTO authors (name) VALUES ("Orson Scott Card");
+
+INSERT INTO character_books (book_id, character_id) VALUES (1, 1);
+INSERT INTO character_books (book_id, character_id) VALUES (2, 1);
+INSERT INTO character_books (book_id, character_id) VALUES (3, 1);
+INSERT INTO character_books (book_id, character_id) VALUES (1, 2);
+INSERT INTO character_books (book_id, character_id) VALUES (2, 2);
+INSERT INTO character_books (book_id, character_id) VALUES (3, 2);
+INSERT INTO character_books (book_id, character_id) VALUES (1, 3);
+INSERT INTO character_books (book_id, character_id) VALUES (2, 4);
+INSERT INTO character_books (book_id, character_id) VALUES (4, 5);
+INSERT INTO character_books (book_id, character_id) VALUES (5, 5);
+INSERT INTO character_books (book_id, character_id) VALUES (6, 5);
+INSERT INTO character_books (book_id, character_id) VALUES (4, 6);
+INSERT INTO character_books (book_id, character_id) VALUES (5, 6);
+INSERT INTO character_books (book_id, character_id) VALUES (6, 6);
+INSERT INTO character_books (book_id, character_id) VALUES (4, 7);
+INSERT INTO character_books (book_id, character_id) VALUES (5, 8);
+
+
+
+
+
+
+
+
+
+
+
+
