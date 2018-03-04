@@ -20,3 +20,6 @@ INSERT INTO characters (name, motto, species, series_id, author_id) VALUES ("Bea
 
 INSERT INTO subgenres (name) VALUES ("epic fantasy");
 INSERT INTO subgenres (name) VALUES ("science fiction");
+
+INSERT INTO authors (name) VALUES ("George R. R. Martin");
+INSERT INTO authors (name) VALUES ("Orson Scott Card");
