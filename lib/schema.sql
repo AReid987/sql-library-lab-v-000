@@ -2,5 +2,5 @@ CREATE TABLE series (
   id INTEGER PRIMARY KEY,
   title TEXT,
   author_id INTEGER,
-  sub-genre TEXT
+  subgenre_id INTEGER
 );
