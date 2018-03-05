@@ -30,7 +30,7 @@ def select_series_title_with_most_human_characters
    JOIN characters
    ON characters.series_id = series.id
    ORDER BY characters.series_id
-   WHERE characters.species = 'Human'
+   HAVING characters.species = 'Human'
 
 
    ;"
